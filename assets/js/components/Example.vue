@@ -187,7 +187,7 @@ import {
       this.salesDisplay=this.salesYear
       this.labelsDisplay=this.labelsYear
       }   
-      this.loaded=false
+      
       }
       
     }
