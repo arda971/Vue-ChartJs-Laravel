@@ -4,9 +4,9 @@
 
 Download the Project from Github and unzip the file
 
-Create a new laravel project with laravel new 'Whatever' or composer create-project --prefer-dist laravel/laravel 'Whatever'
+Create a new laravel project with laravel new 'MyChart' or composer create-project --prefer-dist laravel/laravel 'MyChart'
 
-Go into the new project folder 'Whatever' and replace the files mentioned below with those from the Github project in the following order:
+Go into the new project folder 'MyChart' and replace the files mentioned below with those from the Github project in the following order:
 
 1) Replace package.json from the root folder
 2) Go into the folder ./resources/views and replace the file welcome.blade.php
